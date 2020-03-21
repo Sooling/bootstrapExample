@@ -1,0 +1,18 @@
+.jumbotron .container{
+	max-width: 40rem;
+}
+.jumbotron .container h1{
+	font-weight: 300;
+}
+.well .card-text{
+	height: 144px;
+}
+.well .card{
+	margin-bottom: 20px;
+}
+.main{
+	padding: 50px 0 50px;
+}
+footer p{
+	margin-bottom: .25rem;
+}

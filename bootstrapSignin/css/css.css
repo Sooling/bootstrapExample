@@ -1,0 +1,10 @@
+body{
+	background-color: #F5F5F5;
+	height: 100%;
+	text-align: center;
+}
+.form-signin{
+	max-width: 330px;
+	margin: 0 auto;
+	padding: 15px;
+}

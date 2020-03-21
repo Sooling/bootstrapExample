@@ -1,0 +1,73 @@
+.masthead{
+	text-align: center;
+	padding: 90px 0 110px;
+	margin-bottom: 0;
+	color: #fff;
+	background: linear-gradient(45deg,#020031,#6d3353)
+}
+.masthead h1{
+	/* margin-bottom: 0.625rem;
+	margin-top: 1.25rem; */
+	font-size: 100px;
+	line-height: 1;
+	font-weight: 700;
+	letter-spacing: -2px;
+}
+.masthead h2{
+	font-weight: 200;
+}
+.masthead p{
+	margin-top: 20px;
+}
+.masthead-links{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.masthead-links li a{
+	color: hsla(0,0%,100%,.5);
+	transition: all .2s ease-in-out;
+}
+.masthead-links li a:hover{
+	color: #fff;
+	transition: all .2s ease-in-out;
+}
+
+/* 问答和社区 */
+.bc-social{
+	padding: 10px;
+}
+.bc-social-buttons{
+	list-style: none;
+	text-align: center;
+	margin: 0;
+	line-height: 34px;
+}
+.bc-social-buttons li{
+	display: inline-block;
+}
+.bc-social-buttons li a{
+	color: #555;
+}
+.bc-social-buttons li.social-weibo:before{
+	content: "|";
+	padding: 0 10px;
+	color: #555;
+}
+
+/* 网格系统和缩略图 */
+.thumbnail .caption{
+	height: 200px;
+	text-align: center;
+}
+.thumbnail .caption h3 a{
+	text-decoration: none;
+}
+
+/* footer */
+.modal-footer h4{
+	font-size: 14px;
+}
+.modal-footer a{
+	color: #777777;
+}

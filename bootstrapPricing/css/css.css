@@ -1,0 +1,21 @@
+.shadow-sm{
+	box-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;
+}
+.pricing-header{
+	max-width: 670px;
+}
+.main .container{
+	max-width: 960px;
+}
+.main .card{
+	min-width: 220px;
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+}
+.main .card-deck{
+	
+}
+footer .container{
+	max-width: 960px;
+}
